@@ -48,7 +48,6 @@ Built Excel financial models and Power BI dashboards to model revenue scenarios 
 ## Links
 
 * LinkedIn: linkedin.com/in/sibusisodlamini/
-* Portfolio / Dashboards: (add Power BI public link or repo)
 * Contact: [sibusisodlamini881@gmail.com](mailto:sibusisodlamini881@gmail.com)
 
 ---
